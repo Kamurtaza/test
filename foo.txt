@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sunday
+=======
+saturday sunday
+>>>>>>> e3a4408 (fixed foo in fix1)
